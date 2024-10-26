@@ -39,3 +39,6 @@ AWS S3 served as the primary storage for our data. I refreshed my understanding 
 
 ## Summary
 This project provided a hands-on introduction to streaming data processing and analysis using Kafka, along with a robust AWS-based data pipeline using EC2, S3, Glue, and Athena. Each component plays a distinct role, creating a powerful workflow for handling and querying real-time stock data.
+
+<img width="1271" alt="Screenshot 2024-10-25 at 9 28 35 PM" src="https://github.com/user-attachments/assets/82571ec2-de25-43d2-8a82-4c36242f8130">
+<img width="1623" alt="Screenshot 2024-10-25 at 9 27 58 PM" src="https://github.com/user-attachments/assets/466c6203-b389-4ccc-b075-92a17efc7e69">
